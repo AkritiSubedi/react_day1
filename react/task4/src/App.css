@@ -1,0 +1,70 @@
+*body{
+margin: 0px;
+padding: 0px;
+}
+.maincontainer{
+width: 1440px;
+height: 1024px;
+display: flex;
+justify-content: center;
+margin-top: 100px;
+}
+.secondcontainer{
+width: 388.681px;
+height: 604.399px;
+flex-shrink: 0;
+border-radius: 30px;
+/* opacity: 0.25; */
+text-align: center;
+position: relative;
+justify-content: center;
+box-shadow: -12px -12px 24px 0px #FFFF, 12px 12px 24px 0px #5789EC, -12px -12px 24px 0px rgba(255, 255, 255, 0.71) inset, 12px 12px 24px 0px #7BA4F7 inset;
+}
+.imagecontainer{
+position: relative;
+
+/* text-align: center; */
+}
+h1{
+color: #0c397c;
+font-family: Itim;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+h3{
+color: #183868;
+font-family: Itim;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.profile{
+width: 177.872px;
+height: 177.872px;
+flex-shrink: 0px;
+margin-top: 104px;
+}
+.circle{
+width: 69px;
+height: 69px;
+background-color: #ffff;
+top: 10px;
+right: 19px;
+position: absolute;
+border-radius: 50%;
+}
+.moon{
+width: 44px;
+height: 43.996px;
+position: absolute;
+left: 13px;
+top: 20px;
+fill: #2C4069;
+margin-left: 300px;
+display: flex;
+
+
+}

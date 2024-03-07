@@ -1,0 +1,65 @@
+#message{
+display: flex;
+width: 558px;
+height: 150px;
+padding: 16px 10px;
+align-items: flex-start;
+gap: 20px;
+flex-shrink: 0;
+border-radius: 10px 10px 0px 0px;
+border-bottom: 1px solid #B98645;
+background: rgba(255, 228, 195, 0.30);
+border: none;
+outline: none;
+min-width: 50px;
+resize: none;
+margin: 10px;
+
+}
+
+#contact{
+  display: flex;
+width: 558px;
+padding: 20px 0px;
+align-items: center;
+border-bottom: 1.5px solid #B98645;
+border: none;
+border-bottom: 3px solid #B98645;
+outline: none;
+margin: 10px;
+}
+#email{
+display: flex;
+width: 558px;
+padding: 20px 0px;
+align-items: center;
+border-bottom: 1.5px solid #B98645;
+border: none;
+border-bottom: 3px solid #B98645;
+outline: none;
+margin: 10px;
+
+}
+#name{
+display: flex;
+width: 558px;
+padding: 20px 0px;
+align-items: center;
+border: none;
+border-bottom: 3px solid #B98645;
+outline: none;
+margin: 10px;
+}
+.messages{
+border-radius: 10px;
+background: #B98645;
+display: flex;
+width: 556px;
+padding: 24px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-bottom: 3px solid #B98645;
+margin: 10px;
+
+}

@@ -1,0 +1,128 @@
+*body{
+    margin: 0px;
+    padding: 0px;
+}
+.maincontainer{
+background-color: #F8F3EC;
+border-radius: 20px;
+}
+.img{
+width: 560px;
+height: 719px;
+flex-shrink: 0;
+border-radius: 20px;
+background: #F8F3EC;
+}
+.h1{
+color: rgba(10, 11, 9, 0.89);
+text-align: center;
+font-family: Noto Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: 68px; /* 170% */
+letter-spacing: 0.8px;
+}
+h5{
+color: #909090;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.svg11{
+position: absolute;
+flex-shrink: 0;
+margin-bottom: 500px;
+margin-left: 20px;
+top: 45 px;
+/* bottom: 20px; */
+}
+.svg12{
+
+width: 191px;
+height: 157.686px;
+flex-shrink: 0;
+margin-bottom: 15px;
+position: absolute;
+top: 73%; 
+right: 15%; 
+display: flex;
+flex-direction: column;
+}
+.secondcontainer{
+position: absolute;
+padding: 30px;
+   
+}
+.thirdcontainer{
+margin-left: 700px;
+margin-top: 200px;
+padding: 10px;
+position: absolute;
+bottom: 40px;
+text-align: center;
+}
+.vector{
+position: absolute;
+flex-shrink: 0;
+margin-bottom: 300px;
+margin-left: 20px;
+top: 20px;
+right: 460px;
+}
+.info-icons {
+position: absolute;
+top: 20%;
+left: 35%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.info-icon{ 
+align-items: center;
+margin-bottom: 100px;
+
+}
+.i{
+color: #FFF;
+font-family: Noto Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px; /* 90% */
+}
+.add{
+color: #FFF;
+font-family: Noto Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+}
+.sub{
+color: #B7B7B7;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px;
+}
+.media{
+position: absolute;
+top: 90%;
+width: 41px;
+height: 40px;
+margin-right: 130px;
+display: flex;
+flex-direction: row; 
+
+
+}
+.insta{
+    margin-right: 20px;
+}
+.face{
+    margin-right: 20px;
+}

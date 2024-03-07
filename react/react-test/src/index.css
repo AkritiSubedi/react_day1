@@ -1,0 +1,67 @@
+/* :root {
+  --blue: #ff0000;
+  --fs: 20px;
+} */
+body{
+  margin: auto;
+  height: 50vh;
+  width: 50vh;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: aquamarine;
+}
+.maincontainer{
+  background-color: bisque;
+  border-radius: 10px;
+}
+.section1{
+  background-color: whitesmoke;
+  color: #000;
+  font-size: 15px;
+
+}
+.img{
+  background-color: rgb(72, 67, 67);
+  margin: 50px;
+
+}
+.section2{
+  font-style: italic;
+  background-color: rgb(94, 88, 88);
+}
+.section3{
+  background-color: rgb(98, 93, 93);
+  color: blanchedalmond;
+  font-style: oblique;
+}
+
+.button{
+  margin: 0px;
+  border-radius: 5px;
+  text-align: center;
+}
+.follow{
+ margin:15px;
+ padding: 10px;
+ border-radius: 10px;
+ background-color: rgb(78, 78, 202);
+}
+.mess{
+  margin:15px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.section4{
+  display: flex;
+  color: blanchedalmond;
+
+}
+.posts{
+  margin-right: 30px;
+  margin-left: 50px;
+}
+.followers{
+  margin-right: 30px;
+}
